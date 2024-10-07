@@ -2,7 +2,7 @@
 
 ## About Me
 - 🌱 I’m currently learning [server hacking ]
-- forex market anlysist
+- forex market analysist
 - 📫 How to reach me: [email, Twitter, LinkedIn,instagram]
 
 
