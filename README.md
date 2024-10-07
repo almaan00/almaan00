@@ -11,3 +11,4 @@
 - [Twitter]----https://x.com/Almaancwdr?t=4jpONqXJ91H3PRVvMnxpcg&s=09
 - [Instagram]----https://www.instagram.com/almaan______/profilecard/?igsh=MXZoZ2d6djdpazV5ZQ==
 - [Gmail] almaansaleem8@gmail.com
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)
